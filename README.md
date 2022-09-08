@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
-<h3 align="center">Fact: 🔥 Enthusiast about Tech and want to Learn Everything</h3>
+<h3 align="center">Fact: 🔥 Enthusiast about Tech</h3>
 
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
