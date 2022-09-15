@@ -38,7 +38,7 @@
     </a>
 </p>
 <p align="center">
-<a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a>
+<!-- <a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a> -->
 <a href="https://github.com/sombir5?tab=repositories" title="Profile">
 <img src="https://komarev.com/ghpvc/?username=sombir5&label=Profile%20views&color=0e75b6&style=flat" alt="sombir5" />
 </a>
@@ -46,10 +46,10 @@
 <details>
   <summary>Trophies</summary>
     <p  align="center">
-    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+<!--     <a href="https://github.com/sombir5?tab=repositories" title="Profile">
         <img src="https://github-profile-trophy.vercel.app/?username=sombir5&theme=onedark&column=3&margin-w=15&margin-h=15" alt="sombir5"
             width="49%" />
-    </a>
+    </a> -->
     </p>
 </details>
 
