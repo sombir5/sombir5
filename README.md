@@ -20,3 +20,36 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"/>&nbsp
 </p>
 <br />
+<h2 align="center">🤍 Stats 🤍</h2>
+<br />
+
+<p align="center">
+    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api?username=sombir5&show_icons=true&custom_title=My%20GitHub%20Stats&border_radius=0"
+            alt="Github Stats" width="49%" />
+    </a>
+    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sombir5&border_radius=0" alt="sombir5"
+            width="49%" />
+    </a>
+    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+        <img src="https://activity-graph.herokuapp.com/graph?username=sombir5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="sombir5"
+            width="49%" />
+    </a>
+</p>
+<p align="center">
+<a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a>
+<a href="https://github.com/sombir5?tab=repositories" title="Profile">
+<img src="https://komarev.com/ghpvc/?username=sombir5&label=Profile%20views&color=0e75b6&style=flat" alt="sombir5" />
+</a>
+</p>
+<details>
+  <summary>Trophies</summary>
+    <p  align="center">
+    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+        <img src="https://github-profile-trophy.vercel.app/?username=sombir5&theme=onedark&column=3&margin-w=15&margin-h=15" alt="sombir5"
+            width="49%" />
+    </a>
+    </p>
+</details>
+
