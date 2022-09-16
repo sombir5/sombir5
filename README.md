@@ -39,7 +39,7 @@
     </a>
 </p>
 <p align="center">
-<!-- <a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/133bdcbb-6ca0-4954-a8b6-36ff42dca033.svg"></a> -->
+<a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/7a2f4c7b-6811-4c60-8d9a-1ebe16d4222c.svg"></a>
 <a href="https://github.com/sombir5?tab=repositories" title="Profile">
 <img src="https://komarev.com/ghpvc/?username=sombir5&label=Profile%20views&color=0e75b6&style=flat" alt="sombir5" />
 </a>
