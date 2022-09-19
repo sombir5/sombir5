@@ -37,6 +37,10 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=sombir5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="sombir5"
             width="49%" />
     </a>
+     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Rohit19060&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="Rohit19060"
+            width="49%" />
+    </a>
 </p>
 <p align="center">
 <a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/7a2f4c7b-6811-4c60-8d9a-1ebe16d4222c.svg"></a>
