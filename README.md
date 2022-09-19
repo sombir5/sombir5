@@ -48,10 +48,7 @@
 <details>
   <summary>Trophies</summary>
     <p  align="center">
- <a href="https://github.com/sombir5?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=sombir5" alt="sombir5"
-            width="49%" />
-    </a>
+
     </p>
 </details>
 
