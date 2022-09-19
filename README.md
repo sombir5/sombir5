@@ -47,8 +47,5 @@
 </p>
 <details>
   <summary>Trophies</summary>
-    <p  align="center">
-
-    </p>
 </details>
 
