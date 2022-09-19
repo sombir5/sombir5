@@ -37,10 +37,7 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=sombir5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="sombir5"
             width="49%" />
     </a>
-     <a href="https://github.com/Rohit19060?tab=repositories" title="Profile">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Rohit19060&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="Rohit19060"
-            width="49%" />
-    </a>
+    
 </p>
 <p align="center">
 <a href="https://wakatime.com/@sombir5"><img src="https://wakatime.com/badge/user/7a2f4c7b-6811-4c60-8d9a-1ebe16d4222c.svg"></a>
@@ -51,10 +48,10 @@
 <details>
   <summary>Trophies</summary>
     <p  align="center">
-<!--     <a href="https://github.com/sombir5?tab=repositories" title="Profile">
-        <img src="https://github-profile-trophy.vercel.app/?username=sombir5&theme=onedark&column=3&margin-w=15&margin-h=15" alt="sombir5"
+ <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+        <img src="https://github-readme-stats.vercel.app/api?username=sombir5" alt="sombir5"
             width="49%" />
-    </a> -->
+    </a>
     </p>
 </details>
 
