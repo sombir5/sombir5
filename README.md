@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, Guys! Hoping you are having a great day/Night.</h1>
+<h1 align="center">Hi 👋, Guys! My name is Sombir</h1>
 <h3 align="center">Fact: 🔥 Enthusiast about Tech</h3>
 
+<h2 align="center">About me: 👨🏽‍💻</h2>
+<p align="center">I am MERN stack developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities.</p>
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
