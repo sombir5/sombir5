@@ -3,6 +3,8 @@
 <h2 align="center">About me: 👨🏽‍💻</h2>
 <p align="center">I am MERN stack developer as a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a web developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities.</p>
 
+<img src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+
 - 🌱 I’m currently learning **MERN**
 
 - 🌱 I’m currently learning **DSA**
