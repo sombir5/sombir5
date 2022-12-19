@@ -18,11 +18,11 @@
 <br />
 <p align="center">
     <a href="mailto:sombirverma5@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
+        <img src="https://raw.githubusercontent.com/sombir5/sombir5/main/assets/images/Gmail.svg" alt="Gmail" width="54" /></a>
     <a href="https://www.linkedin.com/in/sombirverma/" title="LinkedIn">
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Linkedin.svg" alt="LinkedIn" width="40"   /></a>
+        <img src="https://raw.githubusercontent.com/sombir5/sombir5/main/assets/images/Linkedin.svg" alt="LinkedIn" width="40"   /></a>
     <a href="https://www.instagram.com/sombirverma5/" title="Instagram">
-        <img src="https://raw.githubusercontent.com/Rohit19060/Rohit19060/main/assets/images/Instagram.svg" alt="Instagram" width="40" /></a> 
+        <img src="https://raw.githubusercontent.com/sombir5/sombir5/main/assets/images/Instagram.svg" alt="Instagram" width="40" /></a> 
 </p>
 
 
@@ -30,7 +30,7 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="54" height="54" align="center"  />&nbsp;
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="54" height="54" align="center" />&nbsp;
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="54" height="54" align="center" />&nbsp;
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"   />&nbsp
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="54" height="54" align="center"   />&nbsp;
           <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="54" height="54" align="center" />&nbsp;
 </p>
 <br />
