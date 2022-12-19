@@ -51,10 +51,10 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sombir5&border_radius=0" alt="sombir5"
             width="49%" />
     </a>
-    <a href="https://github.com/sombir5?tab=repositories" title="Profile">
+<!--     <a href="https://github.com/sombir5?tab=repositories" title="Profile">
         <img src="https://activity-graph.herokuapp.com/graph?username=sombir5&theme=react-dark&hide_border=true&custom_title=Activity%20Graph" alt="sombir5"
             width="49%" />
-    </a>
+    </a> -->
     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sombir5&show_icons=true&locale=en&layout=compact" alt="sombir5" /></p>
 </p>
 <p align="center">
