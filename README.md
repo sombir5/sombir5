@@ -14,7 +14,7 @@
 - 💬 Ask me about **JS,react,redux,MERN**
 
 
-<h2 align="center">🌟 Socials 🌟</h2>
+<!-- <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
     <a href="mailto:sombirverma5@gmail.com?subject=Hi%20from%20Github_Profile" title="Gmail">
@@ -23,7 +23,7 @@
         <img src="https://raw.githubusercontent.com/sombir5/sombir5/main/assets/images/Linkedin.svg" alt="LinkedIn" width="40"   /></a>
     <a href="https://www.instagram.com/sombirverma5/" title="Instagram">
         <img src="https://raw.githubusercontent.com/sombir5/sombir5/main/assets/images/Instagram.svg" alt="Instagram" width="40" /></a> 
-</p>
+</p> -->
 
 
 <p align="center">
